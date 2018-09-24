@@ -1,4 +1,4 @@
-function paragraphSelector() {
+$$(document).ready function paragraphSelector() {
 $("#p")
   
 }

@@ -1,4 +1,3 @@
-$$(document).ready function paragraphSelector() {
-$("#p")
-  
-}
+$$(document).ready (function paragraphSelector() {
+$("#p");
+});

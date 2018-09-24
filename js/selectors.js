@@ -6,4 +6,8 @@ function lastImageSelector() {
   return $('#pic-list img:last');
 }
 
-function 
+function ninjaBabySelector () {
+return $()
+  
+  
+}
